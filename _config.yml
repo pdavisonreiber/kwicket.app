@@ -51,17 +51,17 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
 
-  - title: Quick Start Match
-    description: Set up a new match with just a few taps
-    fontawesome_icon_name: cricket-bat-ball
+#  - title: Quick Start Match
+#    description: Set up a new match with just a few taps
+#    fontawesome_icon_name: cricket-bat-ball
     
-  - title: Easy Scoring 
-    description: Quickly record ball by ball
-    fontawesome_icon_name: hundred-points
+#  - title: Easy Scoring 
+#    description: Quickly record ball by ball
+#    fontawesome_icon_name: hundred-points
   
-  - title: In-Depth Statistics
-    description: Ideal for post-match analysis
-    fontawesome_icon_name: chart-simple  
+#  - title: In-Depth Statistics
+#    description: Ideal for post-match analysis
+#    fontawesome_icon_name: chart-simple  
 # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
